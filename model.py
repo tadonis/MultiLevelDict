@@ -1,3 +1,10 @@
+# -*- coding: UTF-8 -*-
+
+"""
+ Author:  tanghuifeng <tanghf1988@126.com>
+ Created: 2017/8/9
+"""
+
 class Level1Dict(object):
     """
     key should be string
